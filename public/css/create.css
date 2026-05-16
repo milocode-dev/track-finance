@@ -1,0 +1,36 @@
+/* .form-card {
+    max-width: 450px;
+    margin: 40px auto;
+    padding: 24px;
+    background-color: #778899;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.name-section, .type-section, .balance-section {
+    margin-bottom: 16px;
+}
+
+.name-section label, .type-section label, .balance-section label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.name-section input, .type-section select, .balance-section input {
+    padding: 10px;
+    border: 1px solid #E2E8F0;
+    border-radius: 6px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-card button {
+    width: 100%;
+    background-color: #1E293B;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 7px;
+} */
